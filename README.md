@@ -1,4 +1,4 @@
-<h1>DESAFIO: Combate</h1>
+<h1>DESAFIO: Contribuintes</h1>
 
 Para calcular o imposto de renda que uma pessoa deve pagar, um país aplica as seguintes regras:
 1. Imposto sobre salário: a pessoa paga imposto sobre seu salário conforme  tabela ao lado. 
